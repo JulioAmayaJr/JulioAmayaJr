@@ -7,7 +7,6 @@
 Here are some ideas to get you started:
 -->
 
-![Banner](Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
 
 ### Hi, I'm Julio Amaya
 <span style="color: #1a73e8">Full-</span><span style="color: #1a73e8">Stack </span><span style="color: #1a73e8">Software </span><span style="color: #1a73e8">Engineer</span>
